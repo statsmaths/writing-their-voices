@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/writing-their-voices/build/static/css/main.88b36e68.chunk.css",
+    "main.js": "/writing-their-voices/build/static/js/main.293b4fcb.chunk.js",
+    "main.js.map": "/writing-their-voices/build/static/js/main.293b4fcb.chunk.js.map",
+    "runtime-main.js": "/writing-their-voices/build/static/js/runtime-main.a439e4c6.js",
+    "runtime-main.js.map": "/writing-their-voices/build/static/js/runtime-main.a439e4c6.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/writing-their-voices/build/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.b9d1f826.chunk.js": "/writing-their-voices/build/static/js/2.b9d1f826.chunk.js",
+    "static/js/2.b9d1f826.chunk.js.map": "/writing-their-voices/build/static/js/2.b9d1f826.chunk.js.map",
+    "index.html": "/writing-their-voices/build/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/writing-their-voices/build/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.88b36e68.chunk.css.map": "/writing-their-voices/build/static/css/main.88b36e68.chunk.css.map",
+    "static/js/2.b9d1f826.chunk.js.LICENSE.txt": "/writing-their-voices/build/static/js/2.b9d1f826.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/writing-their-voices/build/static/media/sup-mark-rev.f5296453.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a439e4c6.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.b9d1f826.chunk.js",
+    "static/css/main.88b36e68.chunk.css",
+    "static/js/main.293b4fcb.chunk.js"
+  ]
+}
