@@ -13,12 +13,34 @@
       content=""
     />
     <title>Writing Their Voices</title>
+<script>
+  var i = 0;
+  var txt = 'WRITING THEIR VOICES: ';
+
+  function typeWriter() {
+    if (i < txt.length) {
+      document.getElementById("main").innerHTML += txt.charAt(i);
+      i++;
+    } else if (i < txt.length * 10) {
+      i++;
+    } else {
+      document.getElementById("main").innerHTML = "";
+      i = 0;
+      clearInterval();
+    }
+  }
+
+  function startTypeWriter() {
+    setInterval(typeWriter, 100);
+  }
+  
+</script>
   </head>
-  <body>
+  <body onLoad="startTypeWriter()">
     <div>
       <div class="fpage-outer">
         <div class="fpage">
-          <div class="title">WRITING THEIR VOICES:</div>
+          <div class="title" id="main"></div>
           <div class="subtitle">Documentary Evidence and the Southern Life History Project</div>
           <div class="line-break"></div>
           <div class="byline">Taylor Arnold, Courtney Rivard, Lauren Tilton</div>
